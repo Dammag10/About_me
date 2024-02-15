@@ -3,7 +3,7 @@
 - I'm an ambitious student learning new frameworks related to App development such as .Net maui && Flutter.
 - I'm interested in ... Back-end development using ASP.net MVC.  
 - I'm currently learning ... Python,Dart,C#.
-- How to reach me ... [e-mail](osamadammag84@gmail.com) || (osamanashwan84@gmail.com).
+- How to reach me ... [e-mail](osama.n.dammag@gmail.com).
 - I'm a fresh learner on C++ programming language however I got faced many problems within it as well as learning OOP concepts.
 - It is easy to say for some thing that it is hard however hard to do it... nver give up my homie.
 - Think smart...work hard.
